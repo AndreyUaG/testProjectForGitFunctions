@@ -4,6 +4,7 @@ class TaskOne {
             int x = 5;
             int X = 6;
 //test branch
+            //text added after merge
             //Printing the value of the variables to the console
             println("The value of x is " + x +"." + "The value of X is " + X);
         }
